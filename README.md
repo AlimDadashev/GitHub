@@ -1,1 +1,2 @@
 # GitHub
+ ustanovil zanovo repo
